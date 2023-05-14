@@ -1,0 +1,5 @@
+mongoimport -d tuan7 -c dangKyHP dangKyHP.json
+mongoimport -d tuan7 -c khoa khoa.json
+mongoimport -d tuan7 -c lopHoc lopHoc.json
+mongoimport -d tuan7 -c monHocPhan monHocPhan.json
+mongoimport -d tuan7 -c sinhVien sinhVien.json
